@@ -1,2 +1,2 @@
 # python_deploy
-To deploy application with python anywhere
+to deploy application to some env with python
